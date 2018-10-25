@@ -1,0 +1,26 @@
+{
+  "name": "focus.js",
+  "version": "1.0.0",
+  "description": "a javascript library to help user to focus DOM element on website",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zexiplus/focus.js.git"
+  },
+  "keywords": [
+    "focus.js",
+    "focus",
+    "keybind"
+  ],
+  "author": "float",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zexiplus/focus.js/issues"
+  },
+  "homepage": "https://github.com/zexiplus/focus.js#readme",
+  "devDependencies": {
+  }
+}
